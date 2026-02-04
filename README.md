@@ -32,7 +32,10 @@ This is a **Full-Stack Machine Learning** application that classifies news artic
 
 ---
 
+# 📰 News AI Classifier
+
 ## 📂 Project Structure
+Below is the directory structure for the repository:
 
 ```text
 ├── app.py                # Main Streamlit Application
@@ -41,7 +44,9 @@ This is a **Full-Stack Machine Learning** application that classifies news artic
 ├── label_encoder.pkl     # Saved Label Encoder
 ├── bbc-text.csv          # Dataset
 ├── requirements.txt      # Dependencies
-└── *.png                 # Visualizations
+└── *.png                 # Visualizations<img width="946" height="443" alt="Screenshot 2026-02-04 212509" src="https://github.com/user-attachments/assets/81843726-df06-4351-966d-70550b529dd9" />
+
+
 ---
 
 ## 👤 Author
