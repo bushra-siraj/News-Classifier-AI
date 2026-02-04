@@ -33,6 +33,7 @@ This is a **Full-Stack Machine Learning** application that classifies news artic
 ---
 
 ## 📂 Project Structure
+
 ```text
 ├── app.py                # Main Streamlit Application
 ├── model.pkl             # Saved Logistic Regression Model
@@ -41,7 +42,6 @@ This is a **Full-Stack Machine Learning** application that classifies news artic
 ├── bbc-text.csv          # Dataset
 ├── requirements.txt      # Dependencies
 └── *.png                 # Visualizations
-
 ---
 
 ## 👤 Author
