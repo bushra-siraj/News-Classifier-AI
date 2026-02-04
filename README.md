@@ -49,6 +49,9 @@ This is a **Full-Stack Machine Learning** application that classifies news artic
 
 ## 👤 Author
 ### **Bushra Siraj**
-* **Data Science Student** (Exam 2026)
+* **Data Science Student**
 * [GitHub Profile](https://github.com/bushra-siraj)
 * [LinkedIn Profile](https://www.linkedin.com/in/bushrasiraj/)
+
+*<img width="946" height="443" alt="Screenshot 2026-02-04 212509" src="https://github.com/user-attachments/assets/2635edfe-9e4b-4dcb-9dd5-aac938b848a0" />
+
