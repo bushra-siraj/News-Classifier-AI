@@ -34,23 +34,21 @@ This is a **Full-Stack Machine Learning** application that classifies news artic
 
 # 📰 News AI Classifier
 
-## 📂 Project Structure
-Below is the directory structure for the repository:
-
-```text
-├── app.py                # Main Streamlit Application
-├── model.pkl             # Saved Logistic Regression Model
-├── tfidf.pkl             # Saved TF-IDF Vectorizer
-├── label_encoder.pkl     # Saved Label Encoder
-├── bbc-text.csv          # Dataset
-├── requirements.txt      # Dependencies
-└── *.png                 # Visualizations<img width="946" height="443" alt="Screenshot 2026-02-04 212509" src="https://github.com/user-attachments/assets/81843726-df06-4351-966d-70550b529dd9" />
-
+## 📂 Project Directory
+| File / Folder | Description |
+| :--- | :--- |
+| **app.py** | Main Streamlit Web Application |
+| **model.pkl** | Trained Logistic Regression Model |
+| **tfidf.pkl** | Saved TF-IDF Vectorizer |
+| **label_encoder.pkl** | Saved Label Encoder |
+| **bbc-text.csv** | Original Dataset |
+| **requirements.txt** | Library Dependencies |
+| **Images (*.png)** | EDA Visualization Assets |
 
 ---
 
 ## 👤 Author
-**Bushra Siraj**
+### **Bushra Siraj**
 * **Data Science Student** (Exam 2026)
 * [GitHub Profile](https://github.com/bushra-siraj)
 * [LinkedIn Profile](https://www.linkedin.com/in/bushrasiraj/)
